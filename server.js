@@ -17,7 +17,7 @@ var db;
 
 // Create a new REST API client to make authenticated requests against the
 // twilio back end
-var client = new twilio.RestClient('AC9c46405ec244abe2014d13d37bcdaa9d', 'e9f585b39ac4cdbeee751fd11e72163e');
+var client = new twilio.RestClient('AC9c46405ec244abe2014d13d37bcdaa9dX', 'e9f585b39ac4cdbeee751fd11e72163eX');
 
 var schools = [
     {
